@@ -36,4 +36,4 @@ Stefan Felbeck
 If you have any questions you can reach me at:
 [GitHub](https://www.github.com/SFelbeck) or at [email](mailto:stefanfelbeck@gmail.com).
 
-<a href="https://drive.google.com/file/d/1Zbk8qhMPkGBf8eKlFqqfcbzpQexmOW2W/view">You can find a video walkthrough here!</a>
+<a href="https://drive.google.com/file/d/1yJoqC8K3IYQXLbYSsNfNvALWcxF1pS9A/view">You can find a video walkthrough here!</a>
